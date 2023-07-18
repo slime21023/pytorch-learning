@@ -1,2 +1,4 @@
 *.edu
 data
+runs
+models
